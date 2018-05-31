@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Controller4SmartHome</string>
+    <string name="btn_connect">Connect</string>
+    <string name="btn_send">Click Me to Send</string>
+    <string name="btn_disconnect">Disconnect</string>
+    <string name="btn_get_test">Get</string>
+    <string name="btn_0_0">Btn0: 0</string>
+    <string name="btn_0_1">Btn0: 1</string>
+    <string name="btn_1_0">Btn1: 0</string>
+    <string name="btn_1_1">Btn1: 1</string>
+    <string name="btn_2_0">Btn2: 0</string>
+    <string name="btn_2_1">Btn2: 1</string>
+    <string name="btn_3_0">Btn3: 0</string>
+    <string name="btn_3_1">Btn3: 1</string>
+
+</resources>
